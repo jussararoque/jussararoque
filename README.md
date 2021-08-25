@@ -4,7 +4,7 @@
 
 🎓 PhD in Analytical Chemistry
 
-💻 Programming lover ❤️
+💻 Coding lover ❤️
 
 <!--
 **jussararoque/jussararoque** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
